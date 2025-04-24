@@ -1,5 +1,5 @@
 # O mnie
 
 Imię: Nikita  
-Ulubiony język programowania: Python  
-Zainteresowania: gry komputerowe, muzyka, nowe technologie
+Ulubiony język programowania : python 
+zainteresowania: gry komputerowe, muzyka, filmy, serialy
